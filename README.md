@@ -1,2 +1,2 @@
-# Java-Programming-Practice
+# java-lab-practice
 Example of creating repository
